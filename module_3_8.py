@@ -1,35 +1,3 @@
-# from ipaddress import summarize_address_range
-#
-# data_structure = [
-#
-#   [1, 2, 3],
-#
-#   {'a': 4, 'b': 5},
-#
-#   (6, {'cube': 7, 'drum': 8}),
-#
-#   "Hello",
-#
-#   ((), [{(2, 'Urban', ('Urban2', 35))}])
-#
-# ]
-# def calculate_structure_sum (*args):
-#     sum_= 0
-#
-#     for i in data_structure:
-#         if isinstance (i,(int, float)):
-#             sum_+=i
-#
-#         elif isinstance(i, (list, tuple, set)):
-#             sum_ += i
-#
-#
-#
-# calculate_structure_sum()
-# print(sum_)
-# # result = calculate_structure_sum(data_structure)
-# # print(result)
-
 data_structure = [
     [1, 2, 3],
     {'a': 4, 'b': 5},
